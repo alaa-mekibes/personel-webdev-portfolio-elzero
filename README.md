@@ -38,4 +38,4 @@ This project is open-source and available for educational purposes From [elzero 
 
 ## View my work
 
-[Personal Web Developer Portfolio](https://github.com/alaa-mekibes/personel-webdev-portfolio-elzero)
+[Personal Web Developer Portfolio](https://alaa-mekibes.github.io/personel-webdev-portfolio-elzero)
