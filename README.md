@@ -3,6 +3,8 @@
 ## Overview
 This repository contains my third practice project focused on HTML and CSS fundamentals. The project showcases my growing skills in web development, particularly in structuring content with HTML and styling with CSS.
 
+![](screenshot.png)
+
 ## Project Details
 - **Purpose**: Practice and demonstrate HTML/CSS skills
 - **Technologies Used**:
